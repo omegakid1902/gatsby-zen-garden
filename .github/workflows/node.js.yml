@@ -20,9 +20,12 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
+      - run: npm install --legacy-peer-deps
+      - run: npm run build
+
       - uses: enriikke/gatsby-gh-pages-action@v2
         with:
-          access-token: ${{ secrets.GATSBY_SECRET }}
+          access-token: ${{ secrets.GATSBY_ZEN_SECRET }}
           deploy-branch: gh-pages
           git-config-name: 'github-actions[bot]'
           git-config-email: 'github-actions[bot]@users.noreply.github.com'
