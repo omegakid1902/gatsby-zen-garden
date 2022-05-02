@@ -29,3 +29,5 @@ jobs:
           deploy-branch: gh-pages
           git-config-name: 'github-actions[bot]'
           git-config-email: 'github-actions[bot]@users.noreply.github.com'
+          cname: 'https://omegakid1902.github.io/gatsby-zen-garden/'
+
