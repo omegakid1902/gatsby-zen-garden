@@ -10,8 +10,9 @@ for root, dirs, files in os.walk(base_docs_url):
                 content = fi.readlines()
                 fi.seek(0)
                 for line in content:
-                    if not line.rstrip().startswith("# "):
-                        fi.write(line)
+                    if line.rstrip().startswith("# ") or line.rstrip().startswith("UID: "):
+                        continue
+                    fi.write(line)
                 fi.truncate()
 
 
