@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tag-jsx",
+    "path": "/tags/created-2022-feb-25",
+    "result": {"data":{"allMdx":{"totalCount":2,"edges":[{"node":{"excerpt":"Notes: Kim tự tháp Giza Vườn treo Babilon Tượng thần Zeus ở Olympia Đền thờ thần Artemis ở Ephesus Lăng Halicarnassus Tượng thần Mặt Trời ở…","fields":{"slug":"/garden-by-k-quan-th-gii-c-i","title":"Bày kỳ quan thế giới cổ đại","date":"2022-05-03T10:42:27.902Z","excerpt":null},"frontmatter":{"tags":["created/2022/Feb/25","garden","permanent/concept"]}}},{"node":{"excerpt":"Notes: 220225211654 - Sử thi Ramayana dài 48.000 câu 220225211523 - Sử thi Ramayana kể về cuộc tình của hoàng tử Rama và người vợ Sita Ideas…","fields":{"slug":"/garden-s-thi-ramayana","title":"Sử thi Ramayana","date":"2022-05-03T10:42:27.794Z","excerpt":null},"frontmatter":{"tags":["created/2022/Feb/25","garden","permanent/concept"]}}}]}},"pageContext":{"tag":"created/2022/Feb/25","pageNumber":0,"humanPageNumber":1,"skip":0,"limit":10,"numberOfPages":1,"previousPagePath":"","nextPagePath":""}},
+    "staticQueryHashes": ["1408915841","342892192"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tag-jsx",
+    "path": "/tags/created-2021-jun-29",
+    "result": {"data":{"allMdx":{"totalCount":1,"edges":[{"node":{"excerpt":"Notes: Chủ nghĩa Hư vô  thì có hai loại  Chủ nghĩa hư vô thụ động  và  Chủ nghĩa hư vô chủ động . Chủ nghĩa hư vô tích cực phát sinh ra  Chủ…","fields":{"slug":"/thinking-ch-ngha-h-vo-va-ch-ngha-hin-sinh","title":"❕ Chủ nghĩa hư vô và chủ nghĩa hiện sinh","date":"2022-05-03T10:42:28.170Z","excerpt":null},"frontmatter":{"tags":["created/2021/Jun/29","seed","permanent/think"]}}}]}},"pageContext":{"tag":"created/2021/Jun/29","pageNumber":0,"humanPageNumber":1,"skip":0,"limit":10,"numberOfPages":1,"previousPagePath":"","nextPagePath":""}},
+    "staticQueryHashes": ["1408915841","342892192"]}

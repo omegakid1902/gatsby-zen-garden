@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tag-jsx",
+    "path": "/tags/created-2022-jan-22/2",
+    "result": {"data":{"allMdx":{"totalCount":11,"edges":[{"node":{"excerpt":"Notes: Ask và Embla  trong Thần thoại Bắc Âu giống với  Adam và Eva 220122 - Ask và Embla là hai người trần đầu tiên Created: 2022-01-22","fields":{"slug":"/thinking-220122114147-ask-va-embla-trong-thn-thoi-bc-au-ging-vi-adam-va-eva","title":"❕ Ask và Embla trong Thần thoại Bắc Âu giống với Adam và Eva","date":"2022-05-03T10:42:28.194Z","excerpt":null},"frontmatter":{"tags":["created/2022/Jan/22","seeding","permanent/think"]}}}]}},"pageContext":{"tag":"created/2022/Jan/22","pageNumber":1,"humanPageNumber":2,"skip":10,"limit":10,"numberOfPages":2,"previousPagePath":"/tags/created-2022-jan-22","nextPagePath":""}},
+    "staticQueryHashes": ["1408915841","342892192"]}

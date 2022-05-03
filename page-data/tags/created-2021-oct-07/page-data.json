@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tag-jsx",
+    "path": "/tags/created-2021-oct-07",
+    "result": {"data":{"allMdx":{"totalCount":1,"edges":[{"node":{"excerpt":"Notes: Ideas & thoughts: Ngô Quyền Created: 2021-10-07","fields":{"slug":"/garden-nha-ngo","title":"Nhà Ngô","date":"2022-05-03T10:42:27.894Z","excerpt":null},"frontmatter":{"tags":["created/2021/Oct/07","garden","permanent/concept"]}}}]}},"pageContext":{"tag":"created/2021/Oct/07","pageNumber":0,"humanPageNumber":1,"skip":0,"limit":10,"numberOfPages":1,"previousPagePath":"","nextPagePath":""}},
+    "staticQueryHashes": ["1408915841","342892192"]}

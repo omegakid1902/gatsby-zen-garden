@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tag-jsx",
+    "path": "/tags/created-2022-jan-01",
+    "result": {"data":{"allMdx":{"totalCount":1,"edges":[{"node":{"excerpt":"@ James Clear, Atomic Habits Notes: Một số kiến thức mình học được sau khi đọc quyển sách. Ý tưởng cốt lõi, tiến bộ 1% mỗi ngày tạo thay đổi…","fields":{"slug":"/writing-tom-tt-sach-atomic-habits","title":"Tóm tắt sách - Atomic Habits","date":"2022-05-03T10:42:27.954Z","excerpt":null},"frontmatter":{"tags":["created/2022/Jan/01","forest","writing/2022/Jan/01"]}}}]}},"pageContext":{"tag":"created/2022/Jan/01","pageNumber":0,"humanPageNumber":1,"skip":0,"limit":10,"numberOfPages":1,"previousPagePath":"","nextPagePath":""}},
+    "staticQueryHashes": ["1408915841","342892192"]}

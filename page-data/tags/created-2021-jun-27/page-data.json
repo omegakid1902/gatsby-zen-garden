@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tag-jsx",
+    "path": "/tags/created-2021-jun-27",
+    "result": {"data":{"allMdx":{"totalCount":2,"edges":[{"node":{"excerpt":"Notes: Người  Homo Neanderthal  và  Homo Sapiens  khác nhau về thể chất, mã di truyền. Vẫn có thể xảy ra trường hợp họ giao phối và sinh ra…","fields":{"slug":"/thinking-loai-ngi-khong-n-c","title":"❕ Loài người không đơn độc","date":"2022-05-03T10:42:28.154Z","excerpt":null},"frontmatter":{"tags":["created/2021/Jun/27","seed","permanent/think"]}}},{"node":{"excerpt":"Notes: Trong phần đầu quyển  @ Yuval N. Harari, Sapiens lược sử loài người , tác giả quyến sách  Yuval N. Harari  nhận định rằng, người…","fields":{"slug":"/thinking-ngi-sapiens-tin-hoa-chim-u-th-hn-neanderthal","title":"❕ Người Sapiens tiến hóa chiếm ưu thế hơn Neanderthal","date":"2022-05-03T10:42:28.118Z","excerpt":null},"frontmatter":{"tags":["created/2021/Jun/27","seed","permanent/think"]}}}]}},"pageContext":{"tag":"created/2021/Jun/27","pageNumber":0,"humanPageNumber":1,"skip":0,"limit":10,"numberOfPages":1,"previousPagePath":"","nextPagePath":""}},
+    "staticQueryHashes": ["1408915841","342892192"]}

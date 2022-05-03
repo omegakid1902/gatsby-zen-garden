@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tag-jsx",
+    "path": "/tags/created-2022-jan-19",
+    "result": {"data":{"allMdx":{"totalCount":2,"edges":[{"node":{"excerpt":"Notes: @ wiki, Cuộc chiến thành Troy 220119225522 - Iliad và Odyssey của Homer nhắc đến cuộc chiến Troy 220119225744 - Cuộc chiến Troy xảy…","fields":{"slug":"/garden-cuc-chin-thanh-troy","title":"Cuộc chiến thành Troy","date":"2022-05-03T10:42:27.878Z","excerpt":null},"frontmatter":{"tags":["created/2022/Jan/19","garden","permanent/concept"]}}},{"node":{"excerpt":"Notes: Thần biển cả Ideas & thoughts: Created: 2022-01-19","fields":{"slug":"/garden-thn-poseidon","title":"Thần Poseidon","date":"2022-05-03T10:42:27.886Z","excerpt":null},"frontmatter":{"tags":["created/2022/Jan/19","garden","permanent/concept"]}}}]}},"pageContext":{"tag":"created/2022/Jan/19","pageNumber":0,"humanPageNumber":1,"skip":0,"limit":10,"numberOfPages":1,"previousPagePath":"","nextPagePath":""}},
+    "staticQueryHashes": ["1408915841","342892192"]}

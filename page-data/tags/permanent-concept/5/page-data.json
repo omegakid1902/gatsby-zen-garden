@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tag-jsx",
+    "path": "/tags/permanent-concept/5",
+    "result": {"data":{"allMdx":{"totalCount":41,"edges":[{"node":{"excerpt":"Notes: Ideas & thoughts: Created: 2022-02-22","fields":{"slug":"/garden-a-ngc-tartarus","title":"Địa ngục Tartarus","date":"2022-05-03T10:42:27.902Z","excerpt":null},"frontmatter":{"tags":["created/2022/Feb/22","garden","permanent/concept"]}}}]}},"pageContext":{"tag":"permanent/concept","pageNumber":4,"humanPageNumber":5,"skip":40,"limit":10,"numberOfPages":5,"previousPagePath":"/tags/permanent-concept/4","nextPagePath":""}},
+    "staticQueryHashes": ["1408915841","342892192"]}

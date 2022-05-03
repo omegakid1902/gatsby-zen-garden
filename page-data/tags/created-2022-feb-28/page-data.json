@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tag-jsx",
+    "path": "/tags/created-2022-feb-28",
+    "result": {"data":{"allMdx":{"totalCount":1,"edges":[{"node":{"excerpt":"Notes: Ideas & thoughts: Created: 2022-02-28","fields":{"slug":"/garden-titan-oceanus","title":"Titan Oceanus","date":"2022-05-03T10:42:27.882Z","excerpt":null},"frontmatter":{"tags":["created/2022/Feb/28","garden","permanent/concept"]}}}]}},"pageContext":{"tag":"created/2022/Feb/28","pageNumber":0,"humanPageNumber":1,"skip":0,"limit":10,"numberOfPages":1,"previousPagePath":"","nextPagePath":""}},
+    "staticQueryHashes": ["1408915841","342892192"]}

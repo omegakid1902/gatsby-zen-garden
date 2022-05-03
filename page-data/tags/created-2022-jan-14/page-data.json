@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tag-jsx",
+    "path": "/tags/created-2022-jan-14",
+    "result": {"data":{"allMdx":{"totalCount":1,"edges":[{"node":{"excerpt":"Notes: Thuyết hay còn gọi là giả thuyết là một đề xuất khoa học và chưa được chứng minh. Những thuyết được chứng minh qua quan sát, thực…","fields":{"slug":"/thinking-hc-thuyt-la-gi-nh-thuyt-c-chng-minh-gi-la-nh-lut","title":"❕ Học thuyết là giả định, thuyết được chứng minh gọi là định luật","date":"2022-05-03T10:42:28.150Z","excerpt":null},"frontmatter":{"tags":["created/2022/Jan/14","seed","permanent/think"]}}}]}},"pageContext":{"tag":"created/2022/Jan/14","pageNumber":0,"humanPageNumber":1,"skip":0,"limit":10,"numberOfPages":1,"previousPagePath":"","nextPagePath":""}},
+    "staticQueryHashes": ["1408915841","342892192"]}

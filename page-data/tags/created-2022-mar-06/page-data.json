@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tag-jsx",
+    "path": "/tags/created-2022-mar-06",
+    "result": {"data":{"allMdx":{"totalCount":1,"edges":[{"node":{"excerpt":"Notes: 220306210005 - Đèo Ngoạn Mục dài khoảng 18km 220306213504 - Đèo Ngoạn Mục còn được gọi là Đèo Sông Pha Created: 2022-03-06","fields":{"slug":"/garden-eo-ngon-mc","title":"Đèo Ngoạn Mục","date":"2022-05-03T10:42:27.882Z","excerpt":null},"frontmatter":{"tags":["created/2022/Mar/06","garden","permanent/concept"]}}}]}},"pageContext":{"tag":"created/2022/Mar/06","pageNumber":0,"humanPageNumber":1,"skip":0,"limit":10,"numberOfPages":1,"previousPagePath":"","nextPagePath":""}},
+    "staticQueryHashes": ["1408915841","342892192"]}

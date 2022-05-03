@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tag-jsx",
+    "path": "/tags/created-2021-nov-21",
+    "result": {"data":{"allMdx":{"totalCount":2,"edges":[{"node":{"excerpt":"Notes: Jan Hus Created: 2021-11-21","fields":{"slug":"/writing-cac-v-an-cong-giao","title":"Các vụ án Công giáo","date":"2022-05-03T10:42:28.006Z","excerpt":null},"frontmatter":{"tags":["created/2021/Nov/21","forest","writing/2021/Nov/21"]}}},{"node":{"excerpt":"Notes: Sự khác biệt giữa  Công Giáo  và  Tin Lành Tin Lành chỉ tin những điều được viết trong  Kinh thánh  được linh ứng bởi  God . Họ không…","fields":{"slug":"/writing-s-khac-bit-gia-cong-giao-va-tin-lanh","title":"Sự khác biệt giữa Công giáo và Tin lành","date":"2022-05-03T10:42:28.106Z","excerpt":null},"frontmatter":{"tags":["created/2021/Nov/21","forest","writing/2021/Nov/21"]}}}]}},"pageContext":{"tag":"created/2021/Nov/21","pageNumber":0,"humanPageNumber":1,"skip":0,"limit":10,"numberOfPages":1,"previousPagePath":"","nextPagePath":""}},
+    "staticQueryHashes": ["1408915841","342892192"]}

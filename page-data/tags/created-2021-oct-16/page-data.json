@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tag-jsx",
+    "path": "/tags/created-2021-oct-16",
+    "result": {"data":{"allMdx":{"totalCount":1,"edges":[{"node":{"excerpt":"Notes: @ Thomas S. Cowan, The Contagion Myth @ Thomas S. Cowan, The Contagion Myth, Ch01 Các định đề Robert Koch Các định đề Thomas Rivers…","fields":{"slug":"/writing-tom-tt-sach-truyn-thuyt-v-s-lay-nhim","title":"Tóm tắt sách truyền thuyết bệnh lây nhiễm","date":"2022-05-03T10:42:28.058Z","excerpt":null},"frontmatter":{"tags":["created/2021/Oct/16","garden","permanent/linking"]}}}]}},"pageContext":{"tag":"created/2021/Oct/16","pageNumber":0,"humanPageNumber":1,"skip":0,"limit":10,"numberOfPages":1,"previousPagePath":"","nextPagePath":""}},
+    "staticQueryHashes": ["1408915841","342892192"]}

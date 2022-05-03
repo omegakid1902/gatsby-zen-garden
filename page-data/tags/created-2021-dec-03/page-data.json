@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tag-jsx",
+    "path": "/tags/created-2021-dec-03",
+    "result": {"data":{"allMdx":{"totalCount":1,"edges":[{"node":{"excerpt":"Tác giả  Leo Tolstoy Highlights:  @ Leo Tolstoy, Suy niệm mỗi ngày Notes: Không phải ai cũng phù hợp để đọc quyển này, và không phải thời…","fields":{"slug":"/writing-sach-leo-tolstoy-suy-nim-mi-ngay","title":"Sách - Leo Tolstoy, Suy niệm mỗi ngày","date":"2022-05-03T10:42:27.994Z","excerpt":null},"frontmatter":{"tags":["created/2021/Dec/03","forest","writing/2021/Dec/03"]}}}]}},"pageContext":{"tag":"created/2021/Dec/03","pageNumber":0,"humanPageNumber":1,"skip":0,"limit":10,"numberOfPages":1,"previousPagePath":"","nextPagePath":""}},
+    "staticQueryHashes": ["1408915841","342892192"]}

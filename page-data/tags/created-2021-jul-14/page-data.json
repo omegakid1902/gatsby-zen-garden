@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tag-jsx",
+    "path": "/tags/created-2021-jul-14",
+    "result": {"data":{"allMdx":{"totalCount":1,"edges":[{"node":{"excerpt":"Notes: Đôi khi là tạo reference note gồm những highlight từ sách hay một website. Sau đó tạo literature note để điễn đạt lại từng highlight…","fields":{"slug":"/thinking-210714195600-zettelkasten-workflow","title":"Zettelkasten Workflow","date":"2022-05-03T10:42:28.282Z","excerpt":null},"frontmatter":{"tags":["created/2021/Jul/14","seeding","permanent/think"]}}}]}},"pageContext":{"tag":"created/2021/Jul/14","pageNumber":0,"humanPageNumber":1,"skip":0,"limit":10,"numberOfPages":1,"previousPagePath":"","nextPagePath":""}},
+    "staticQueryHashes": ["1408915841","342892192"]}

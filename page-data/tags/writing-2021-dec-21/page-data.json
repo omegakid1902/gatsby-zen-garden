@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tag-jsx",
+    "path": "/tags/writing-2021-dec-21",
+    "result": {"data":{"allMdx":{"totalCount":1,"edges":[{"node":{"excerpt":"@ Yuval N. Harari, Sapiens lược sử loài người Notes: Một quyển sách đề cập đến hầu hết các vấn đề xảy ra song song quá trình tồn tại và phát…","fields":{"slug":"/writing-sach-yuval-n-harari-sapiens-lc-s-loai-ngi","title":"Sách - Yuval N. Harari, Sapiens lược sử loài người","date":"2022-05-03T10:42:28.002Z","excerpt":null},"frontmatter":{"tags":["created/2021/Dec/21","forest","writing/2021/Dec/21"]}}}]}},"pageContext":{"tag":"writing/2021/Dec/21","pageNumber":0,"humanPageNumber":1,"skip":0,"limit":10,"numberOfPages":1,"previousPagePath":"","nextPagePath":""}},
+    "staticQueryHashes": ["1408915841","342892192"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tag-jsx",
+    "path": "/tags/created-2021-sep-02",
+    "result": {"data":{"allMdx":{"totalCount":2,"edges":[{"node":{"excerpt":"Notes: research-topics-for-college-students psychology-research-topics best-research-paper-topics Created: 2021-09-02","fields":{"slug":"/thinking-topics-to-research","title":"❕ Topics to research","date":"2022-05-03T10:42:28.162Z","excerpt":null},"frontmatter":{"tags":["created/2021/Sep/02","garden","permanent/think"]}}},{"node":{"excerpt":"Notes: [ Ý nghĩa cuộc sống|Ý nghĩa cuộc đời ] là sự định nghĩa của mỗi người, không ai giống ai. Ý nghĩa đối với bản thân mình là khi chết…","fields":{"slug":"/thinking-ngha-cuc-i-la-s-nh-ngha-ca-mi-ngi","title":"❕ Ý nghĩa cuộc đời là sự định nghĩa của mỗi người","date":"2022-05-03T10:42:28.194Z","excerpt":null},"frontmatter":{"tags":["created/2021/Sep/02","seed","permanent/think"]}}}]}},"pageContext":{"tag":"created/2021/Sep/02","pageNumber":0,"humanPageNumber":1,"skip":0,"limit":10,"numberOfPages":1,"previousPagePath":"","nextPagePath":""}},
+    "staticQueryHashes": ["1408915841","342892192"]}

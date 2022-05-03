@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tag-jsx",
+    "path": "/tags/permanent-think/5",
+    "result": {"data":{"allMdx":{"totalCount":41,"edges":[{"node":{"excerpt":"Notes: Bạn thử đặt mình vào hoàn cảnh của người Palestine, có bao giờ bạn chấp nhận được có một ngày bạn bị đuổi ra kho…","fields":{"slug":"/writing-ch-ngha-zion-la-mt-tro-bp-th-gii-loai-ngi","title":"❕ Chủ Nghĩa Zion là một trò bịp thế giới loài người","date":"2022-05-03T10:42:28.090Z","excerpt":null},"frontmatter":{"tags":["created/2021/Oct/30","forest","permanent/think","writing/2021/Oct/30"]}}}]}},"pageContext":{"tag":"permanent/think","pageNumber":4,"humanPageNumber":5,"skip":40,"limit":10,"numberOfPages":5,"previousPagePath":"/tags/permanent-think/4","nextPagePath":""}},
+    "staticQueryHashes": ["1408915841","342892192"]}

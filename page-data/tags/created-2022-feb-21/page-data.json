@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tag-jsx",
+    "path": "/tags/created-2022-feb-21",
+    "result": {"data":{"allMdx":{"totalCount":2,"edges":[{"node":{"excerpt":"Notes: Các nguyên tắc của phương pháp  Zettelkasten  được đúc kết qua quyển sách  @ Sönke Ahrens, How to take smart notes : Ghi chú nguyên…","fields":{"slug":"/garden-cac-nguyen-tc-ca-phng-phap-zettelkasten","title":"Các nguyên tắc của phương pháp Zettelkasten","date":"2022-05-03T10:42:27.922Z","excerpt":null},"frontmatter":{"tags":["created/2022/Feb/21","garden","permanent/linking"]}}},{"node":{"excerpt":"[ ❕ 210714195600 - Zettelkasten Workflow ] @ Sönke Ahrens, How to take smart notes Zettelkasten note-taking in 10 minutes · Tomas Vik How To…","fields":{"slug":"/garden-cac-tai-liu-zettelkasten","title":"Các tài liệu zettelkasten","date":"2022-05-03T10:42:27.918Z","excerpt":null},"frontmatter":{"tags":["created/2022/Feb/21","garden","permanent/linking"]}}}]}},"pageContext":{"tag":"created/2022/Feb/21","pageNumber":0,"humanPageNumber":1,"skip":0,"limit":10,"numberOfPages":1,"previousPagePath":"","nextPagePath":""}},
+    "staticQueryHashes": ["1408915841","342892192"]}

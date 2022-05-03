@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tag-jsx",
+    "path": "/tags/created-2021-aug-16",
+    "result": {"data":{"allMdx":{"totalCount":1,"edges":[{"node":{"excerpt":"Notes Nhờ có  Đại Việt  lãnh đạo bởi  Nhà Trần  mà  Nhà Nguyên-Mông  không thể mở rộng xuống vùng  Đông Nam Á  được, mặc dù quân Nguyên lúc…","fields":{"slug":"/thinking-nh-co-i-vit-ma-quan-nguyen-khong-th-m-rng-xung-vung-ong-nam-a-c","title":"Nhờ có Đại Việt mà quân Nguyên không thể mở rộng xuống vùng Đông Nam Á được","date":"2022-05-03T10:42:28.162Z","excerpt":null},"frontmatter":{"tags":["created/2021/Aug/16","permanent/think"]}}}]}},"pageContext":{"tag":"created/2021/Aug/16","pageNumber":0,"humanPageNumber":1,"skip":0,"limit":10,"numberOfPages":1,"previousPagePath":"","nextPagePath":""}},
+    "staticQueryHashes": ["1408915841","342892192"]}

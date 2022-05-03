@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tag-jsx",
+    "path": "/tags/created-2021-aug-12",
+    "result": {"data":{"allMdx":{"totalCount":1,"edges":[{"node":{"excerpt":"Notes: Nhà Minh  -  Sùng Trinh  -  Ngô Tam Quế Nhà Đại Thuận  -  Lý Tự Thành Nhà Thanh  -  Ái Tân Giác La Lý Tự Thành  lãnh đạo nông dân…","fields":{"slug":"/writing-s-kin-lch-s-t-nha-minh-ti-nha-thanh","title":"Sự kiện lịch sử từ Nhà minh tới nhà Thanh","date":"2022-05-03T10:42:27.974Z","excerpt":null},"frontmatter":{"tags":["created/2021/Aug/12","forest","writing"]}}}]}},"pageContext":{"tag":"created/2021/Aug/12","pageNumber":0,"humanPageNumber":1,"skip":0,"limit":10,"numberOfPages":1,"previousPagePath":"","nextPagePath":""}},
+    "staticQueryHashes": ["1408915841","342892192"]}

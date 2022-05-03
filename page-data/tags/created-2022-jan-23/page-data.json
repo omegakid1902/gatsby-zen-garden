@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tag-jsx",
+    "path": "/tags/created-2022-jan-23",
+    "result": {"data":{"allMdx":{"totalCount":1,"edges":[{"node":{"excerpt":"Notes: [ Thần Enki|Enki ] tạo ra sự kiện  Babel  chăng, vì ông đã tạo ra nhiều thứ tiếng khiến con người chia cắt, bất đồng ngôn ngữ…","fields":{"slug":"/thinking-220123225317-enki-to-ra-s-kin-babel-chng","title":"❕ 220123225317 - Enki tạo ra sự kiện Babel chăng","date":"2022-05-03T10:42:28.218Z","excerpt":null},"frontmatter":{"tags":["created/2022/Jan/23","evergreen","permanent/think"]}}}]}},"pageContext":{"tag":"created/2022/Jan/23","pageNumber":0,"humanPageNumber":1,"skip":0,"limit":10,"numberOfPages":1,"previousPagePath":"","nextPagePath":""}},
+    "staticQueryHashes": ["1408915841","342892192"]}
