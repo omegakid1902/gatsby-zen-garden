@@ -1,4 +1,3 @@
-# An Dương Vương thực hiện kế vườn không nhà trống với quân Tần
 
 - metadata
 	- UID: P-210724-0939

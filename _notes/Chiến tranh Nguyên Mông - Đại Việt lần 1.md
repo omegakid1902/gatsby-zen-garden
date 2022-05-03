@@ -1,4 +1,3 @@
-# Chiến tranh Nguyên Mông - Đại Việt lần 1
 
 ## Notes
 Thời gian: bắt đầu 12 âm lịch năm 1284

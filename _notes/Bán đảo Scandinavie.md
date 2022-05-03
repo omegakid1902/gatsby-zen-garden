@@ -1,4 +1,3 @@
-# Bán đảo Scandinavie
 
 - metadata
 	- UID: P-210725-1150

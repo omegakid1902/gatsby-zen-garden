@@ -1,4 +1,3 @@
-# Công Đồng Nicea 325
 
 ## Notes:
 

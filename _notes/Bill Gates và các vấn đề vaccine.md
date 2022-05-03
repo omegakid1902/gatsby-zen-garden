@@ -1,4 +1,3 @@
-# Bill Gates và các vấn đề vaccine
 
 ## Notes:
 

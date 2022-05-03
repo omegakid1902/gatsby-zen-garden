@@ -1,4 +1,3 @@
-# Bill Gates
 
 ## Notes:
 

@@ -1,4 +1,3 @@
-# Carbohydrate
 
 %% 
 - metadata:

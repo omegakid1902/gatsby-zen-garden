@@ -1,4 +1,3 @@
-# Các chế độ nhịn ăn
 
 ## Notes:
 [[Intermittent Fasting]]

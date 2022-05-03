@@ -1,5 +1,4 @@
 
-# Amino acid
 
 - metadata
 	- UID: P-210814-1959

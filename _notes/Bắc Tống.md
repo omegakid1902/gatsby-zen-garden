@@ -1,4 +1,3 @@
-# Bắc Tống
 
 ## Notes:
 

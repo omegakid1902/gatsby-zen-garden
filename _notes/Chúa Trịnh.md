@@ -1,4 +1,3 @@
-# Chúa Trịnh
 
 ## Notes:
 Chúa Trịnh là một dòng tộc nắm quyền [[Đàng Ngoài]] [[Thời Lê trung hưng]]. Vua Lê được giữ chức nhưng không có thực quyền.
